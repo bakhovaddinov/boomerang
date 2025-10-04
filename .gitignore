@@ -1,0 +1,6 @@
+build/
+.vscode/
+*.asm
+*.o
+*.out
+*.exe
